@@ -1,4 +1,4 @@
-## Sporting goods store
+# Sporting goods store
 ### Scenario:
 
 You are a data engineer at a sporting goods store. The store has multiple tills where customers make in-store purchases, and each till is operated by a cashier. The store offers a wide range of sporting goods, including equipment, apparel, and accessories.
@@ -30,3 +30,11 @@ Customers make purchases in-store
 - [x]  Problem 5: Sales Trends
     
     Relying on the data model from Problem 2, write a SQL query to calculate the total sales amount for each month, along with the month-over-month growth rate.
+
+- ****Solution 1 database diagram:****
+![alt text](https://github.com/Rosaverde/Database_DataWarehouse_Store/blob/main/salesdb.png)
+
+- ****Solution 2 data warehouse diagram:****
+![alt text](https://github.com/Rosaverde/Database_DataWarehouse_Store/blob/main/salesdw.png)
+
+- ## There are solutions in two versions, MSSQL and PostgreSQL.
