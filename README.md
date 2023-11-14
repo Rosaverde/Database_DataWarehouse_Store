@@ -37,4 +37,7 @@ Customers make purchases in-store
 - ****Solution 2 data warehouse diagram:****
 ![alt text](https://github.com/Rosaverde/Database_DataWarehouse_Store/blob/main/salesdw.png)
 
+- ****Solution 5 Example sales report:****
+![alt text](https://github.com/Rosaverde/Database_DataWarehouse_Store/blob/main/salesReport.png)
+
 - ## There are solutions in two versions, MSSQL and PostgreSQL.
